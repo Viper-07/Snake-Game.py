@@ -117,6 +117,3 @@ while True:
     show_score(1, white, 'consolas', 20)
     pygame.display.update()
     fps_controller.tick(difficulty)
-
-    
-This is the fully functional Snake game which is so basic if need any improvement just let me know and suggest me...
